@@ -1,0 +1,22 @@
+ai) Virtualization is the process of creating virtual versions of hardware, software, or resources. It allows multiple operating systems, applications, or environments to run on a single machine by abstracting the underlying hardware.
+Examples of Virtualization services
+1.Cloud-based virtualization service
+  - Microsoft azure virtual machine
+  - Google cloud compute Engine
+2.Application virtualization service
+  - Microsoft App-V
+  - VMware thinApp
+aii) 
+1. Resource optimization
+2. Scalability and flexibility 
+3. Improved disaster recovery
+4. Cost efficient
+5. Simplified management
+aiii)
+Git: Is a distributed version control system used to track changes in source code during software development. Git is a version control system.
+while
+GitHub: Is a cloud-based platform that hosts Git repositories, allowing developers to store and manage code online, collaborate, and share their work with others. GitHub is a platform that hosts git repositories and enhances Git's capabilities for collaboration and sharing.
+aiv) 
+1. Efficient collaboration
+2. Data integrity 
+3. Simplified rollbacks
